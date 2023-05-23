@@ -2,8 +2,8 @@
 
 My name is Apaar and I'm the co-founder and CTO of PostGrid.
 The projects you see here are some of the things I work on in my
-spare time. I enjoy systems programming and API design. Email me
-if you find any of my libraries useful 😄.
+spare time. I enjoy making game engines, compilers, and doing API design in general.
+Email me if you find any of my libraries useful 😄
 
 <!--
 **goodpaul6/goodpaul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
